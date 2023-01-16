@@ -18,6 +18,7 @@
   },
   "homepage": "https://github.com/Mahesh95802/js-testing#readme",
   "devDependencies": {
+    "eslint": "^8.32.0",
     "jest": "^29.3.1"
   },
   "dependencies": {
